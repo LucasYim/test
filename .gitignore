@@ -18,7 +18,7 @@ doc/*.txt
 # 忽略 doc/ 目录下所有扩展名为 txt 的文件
 doc/**/*.txt
 
-*.txt
+
 
 
 #文件 .gitignore 的格式规范如下：
